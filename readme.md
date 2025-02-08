@@ -1,3 +1,7 @@
+Run 
+git submodule update --init --recursive 
+before make in openwrt
+
 # msd_lite
 
 [![Build-macOS-latest Actions Status](https://github.com/rozhuk-im/msd_lite/workflows/build-macos-latest/badge.svg)](https://github.com/rozhuk-im/msd_lite/actions)
